@@ -1,18 +1,10 @@
 ![Paradise VPN](assets/banner.png)
 
 <p align="center">
-  <a href="https://github.com/paradise-inc-off/Paradise-VPN-Android/stargazers">
-    <img src="https://img.shields.io/github/stars/paradise-inc-off/Paradise-VPN-Android?style=for-the-badge&logo=github" alt="GitHub Stars">
-  </a>
-  <a href="https://github.com/paradise-inc-off/Paradise-VPN-Android/releases">
-    <img src="https://img.shields.io/github/downloads/paradise-inc-off/Paradise-VPN-Android/total?style=for-the-badge&logo=github" alt="Downloads">
-  </a>
-  <a href="https://github.com/paradise-inc-off/Paradise-VPN-Android/releases/latest">
-    <img src="https://img.shields.io/github/v/release/paradise-inc-off/Paradise-VPN-Android?style=for-the-badge&logo=github" alt="Latest Release">
-  </a>
-  <a href="https://github.com/paradise-inc-off/Paradise-VPN-Android/releases/latest">
-    <img src="https://img.shields.io/github/release-date/paradise-inc-off/Paradise-VPN-Android?style=for-the-badge&logo=github" alt="Release Date">
-  </a>
+<a href="https://github.com/paradise-inc-off/Paradise-VPN-Android/stargazers"><img src="https://img.shields.io/github/stars/paradise-inc-off/Paradise-VPN-Android?style=for-the-badge&logo=github" alt="GitHub Stars"></a>
+<a href="https://github.com/paradise-inc-off/Paradise-VPN-Android/releases"><img src="https://img.shields.io/github/downloads/paradise-inc-off/Paradise-VPN-Android/total?style=for-the-badge&logo=github" alt="Downloads"></a>
+<a href="https://github.com/paradise-inc-off/Paradise-VPN-Android/releases/latest"><img src="https://img.shields.io/github/v/release/paradise-inc-off/Paradise-VPN-Android?style=for-the-badge&logo=github" alt="Latest Release"></a>
+<a href="https://github.com/paradise-inc-off/Paradise-VPN-Android/releases/latest"><img src="https://img.shields.io/github/release-date/paradise-inc-off/Paradise-VPN-Android?style=for-the-badge&logo=github" alt="Release Date"></a>
 </p>
 
 <p align="center">
