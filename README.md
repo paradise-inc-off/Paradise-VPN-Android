@@ -1,4 +1,4 @@
-# Paradise VPN для Android
+![Paradise VPN](assets/banner.png)
 
 Официальный Android-клиент **Paradise VPN** с нативным VPN-подключением, современным интерфейсом и полной интеграцией с личным кабинетом.
 
