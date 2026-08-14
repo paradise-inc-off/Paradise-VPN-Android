@@ -8,12 +8,11 @@
 
 ---
 
-## 🔎 Проверка файла
+## 🔎 Проверка и безопасность
 
-Официальный APK Paradise VPN можно проверить по контрольной сумме SHA-256.
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-View%20Report-394EFF?logo=virustotal&logoColor=white)](https://www.virustotal.com/gui/file/eef5bcb36fe40ff6f25c921b28082caebba4ba6a642c012a2650e4ea558ee45f)
 
-### SHA-256
-
+**SHA-256**
 ```text
 EEF5BCB36FE40FF6F25C921B28082CAEBBA4BA6A642C012A2650E4EA558EE45F
 ```
