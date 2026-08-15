@@ -116,7 +116,7 @@ Paradise VPN можно добавить в **быстрые настройки 
 
 Чувствительные серверные ключи и административные данные не хранятся внутри APK.
 
-### SHA-256 — Paradise VPN 0.8.6
+### SHA-256 — Paradise VPN
 
 ```text
 EEF5BCB36FE40FF6F25C921B28082CAEBBA4BA6A642C012A2650E4EA558EE45F
