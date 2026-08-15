@@ -1,4 +1,6 @@
-![Paradise VPN](assets/Preview-1.png)
+<p align="center">
+  <img src="assets/Preview-1.png" alt="Превью">
+</p>
 
 <p align="center">
 <a href="https://github.com/paradise-inc-off/Paradise-VPN-Android/stargazers"><img src="https://img.shields.io/github/stars/paradise-inc-off/Paradise-VPN-Android?style=for-the-badge&logo=github" alt="GitHub Stars"></a>
