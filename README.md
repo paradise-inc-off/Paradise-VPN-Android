@@ -1,4 +1,4 @@
-![Paradise VPN](assets/banner.png)
+![Paradise VPN](assets/Preview-1.png)
 
 <p align="center">
 <a href="https://github.com/paradise-inc-off/Paradise-VPN-Android/stargazers"><img src="https://img.shields.io/github/stars/paradise-inc-off/Paradise-VPN-Android?style=for-the-badge&logo=github" alt="GitHub Stars"></a>
