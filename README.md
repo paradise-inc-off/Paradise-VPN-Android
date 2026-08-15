@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="assets/Preview-1.png" alt="Превью">
+  <img src="assets/banner.png" alt="Баннер" width="70%">
+  <img src="assets/Preview-1.png" alt="Превью" width="20%">
 </p>
 
 <p align="center">
@@ -19,7 +20,7 @@
 
 Официальный Android-клиент **Paradise VPN** с нативным VPN-подключением, современным Material 3 Expressive интерфейсом и управлением аккаунтом прямо из приложения.
 
-> Актуальная версия: **0.8.6**
+> Актуальная версия: **0.9.0**
 
 ---
 
@@ -122,14 +123,6 @@ EEF5BCB36FE40FF6F25C921B28082CAEBBA4BA6A642C012A2650E4EA558EE45F
 ```
 
 [![VirusTotal](https://img.shields.io/badge/VirusTotal-Открыть%20отчёт-394EFF?style=for-the-badge\&logo=virustotal\&logoColor=white)](https://www.virustotal.com/gui/file/eef5bcb36fe40ff6f25c921b28082caebba4ba6a642c012a2650e4ea558ee45f)
-
-Проверить SHA-256 в Windows:
-
-```powershell
-Get-FileHash ".\ParadiseVPN-0.8.6.apk" -Algorithm SHA256
-```
-
-Полученное значение должно полностью совпадать с указанным выше.
 
 ---
 
