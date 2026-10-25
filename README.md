@@ -1,7 +1,6 @@
 
 <p align="center">
   <img src="assets/banner.png" alt="Баннер" width="70%">
-  <img src="assets/Preview-1.png" alt="Превью" width="20%">
 </p>
 
 <p align="center">
